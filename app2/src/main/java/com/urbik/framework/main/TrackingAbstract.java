@@ -1,6 +1,7 @@
 package com.urbik.framework.main;
 
 import com.metaio.sdk.ARViewActivity;
+import com.metaio.sdk.jni.IGeometry;
 import com.urbik.framework.main.Model.Model;
 
 /**
@@ -20,7 +21,8 @@ public abstract class TrackingAbstract extends ARViewActivity {
         return true;
     }
 
-    protected boolean unloadModel(Model m) {
+    protected boolean unloadModel(IGeometry g) {
+        metaioSDK.unloadGeometry(g);
         return true;
     }
 }

@@ -11,4 +11,4 @@
 		android:right="20dip" 
 		android:bottom="2dip" />
 	<corners android:radius="5dip" />
-</shape><!-- From: file:/C:/Users/Antoine/Desktop/Square/metaioSDK/res/drawable/toastbackground.xml --><!-- From: file:/C:/Users/Antoine/Desktop/Square/metaioSDK/build/intermediates/bundles/debug/res/drawable/toastbackground.xml -->
+</shape><!-- From: file:/D:/Documents/GitHub/SquareBO/metaioSDK/res/drawable/toastbackground.xml --><!-- From: file:/D:/Documents/GitHub/SquareBO/metaioSDK/build/intermediates/bundles/debug/res/drawable/toastbackground.xml -->

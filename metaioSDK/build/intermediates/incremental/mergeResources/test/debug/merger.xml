@@ -2,309 +2,309 @@
 <merger version="2" >
 
     <dataSet config="debug" >
-        <source path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res" >
+        <source path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res" >
             <file
                 name="button_detail_blue"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable\button_detail_blue.xml"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable\button_detail_blue.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="button_detail_green"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable\button_detail_green.xml"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable\button_detail_green.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="default_video_poster"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable\default_video_poster.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable\default_video_poster.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="divider"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable\divider.xml"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable\divider.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="progress_bar"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable\progress_bar.xml"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable\progress_bar.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="rating_drawable"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable\rating_drawable.xml"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable\rating_drawable.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="selector_darker"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable\selector_darker.xml"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable\selector_darker.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="selector_web_back"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable\selector_web_back.xml"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable\selector_web_back.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="selector_web_forward"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable\selector_web_forward.xml"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable\selector_web_forward.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="simple_button_background_selector"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable\simple_button_background_selector.xml"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable\simple_button_background_selector.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="toastbackground"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable\toastbackground.xml"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable\toastbackground.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="button_blue_default"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\button_blue_default.9.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\button_blue_default.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="button_blue_pressed"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\button_blue_pressed.9.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\button_blue_pressed.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="button_blue_pressed_new"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\button_blue_pressed_new.9.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\button_blue_pressed_new.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="button_gray_default"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\button_gray_default.9.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\button_gray_default.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="button_gray_pressed"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\button_gray_pressed.9.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\button_gray_pressed.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="button_green_default"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\button_green_default.9.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\button_green_default.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="button_green_pressed"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\button_green_pressed.9.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\button_green_pressed.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="icon_placeholder"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\icon_placeholder.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\icon_placeholder.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="radar_inner"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\radar_inner.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\radar_inner.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="share"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\share.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\share.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="star_act"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\star_act.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\star_act.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="star_dis"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\star_dis.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\star_dis.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="web_back"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\web_back.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\web_back.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="web_back_dis"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\web_back_dis.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\web_back_dis.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="web_close"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\web_close.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\web_close.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="web_forward"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\web_forward.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\web_forward.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="web_forward_dis"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\web_forward_dis.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\web_forward_dis.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="web_reload"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\web_reload.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\web_reload.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="web_stop"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\web_stop.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-hdpi-v4\web_stop.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="poi_background"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-nodpi-v4\poi_background.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-nodpi-v4\poi_background.png"
                 qualifiers="nodpi-v4"
                 type="drawable" />
             <file
                 name="radar_inner"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\radar_inner.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\radar_inner.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="share"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\share.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\share.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="star_act"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\star_act.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\star_act.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="star_def"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\star_def.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\star_def.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="web_back"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\web_back.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\web_back.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="web_back_dis"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\web_back_dis.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\web_back_dis.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="web_close"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\web_close.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\web_close.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="web_forward"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\web_forward.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\web_forward.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="web_forward_dis"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\web_forward_dis.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\web_forward_dis.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="web_reload"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\web_reload.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\web_reload.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="web_stop"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\web_stop.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\web_stop.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="share"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\share.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\share.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="star_act"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\star_act.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\star_act.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="star_dis"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\star_dis.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\star_dis.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="web_back"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\web_back.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\web_back.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="web_back_dis"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\web_back_dis.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\web_back_dis.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="web_close"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\web_close.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\web_close.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="web_forward"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\web_forward.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\web_forward.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="web_forward_dis"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\web_forward_dis.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\web_forward_dis.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="web_reload"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\web_reload.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\web_reload.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="web_stop"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\web_stop.png"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\drawable-xxhdpi-v4\web_stop.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="button_action_detail"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\layout\button_action_detail.xml"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\layout\button_action_detail.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="html5container"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\layout\html5container.xml"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\layout\html5container.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="poiactivity"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\layout\poiactivity.xml"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\layout\poiactivity.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="poidetaildialog"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\layout\poidetaildialog.xml"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\layout\poidetaildialog.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="webview"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\layout\webview.xml"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\layout\webview.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="webviewnav"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\layout\webviewnav.xml"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\layout\webviewnav.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="poidetaildialog"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\layout-land\poidetaildialog.xml"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\layout-land\poidetaildialog.xml"
                 qualifiers="land"
                 type="layout" />
             <file
                 name="success"
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\raw\success.mp3"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\raw\success.mp3"
                 qualifiers=""
                 type="raw" />
             <file
-                path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\intermediates\bundles\debug\res\values\values.xml"
+                path="D:\Documents\GitHub\SquareBO\metaioSDK\build\intermediates\bundles\debug\res\values\values.xml"
                 qualifiers="" >
                 <string name="LBL_FEATURED_PICKS" >Featured Picks
                 </string>
@@ -996,9 +996,9 @@ false
         </source>
     </dataSet>
     <dataSet config="main" >
-        <source path="C:\Users\Antoine\Desktop\Square\metaioSDK\src\androidTest\res" />
-        <source path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\generated\res\rs\test\debug" />
-        <source path="C:\Users\Antoine\Desktop\Square\metaioSDK\build\generated\res\generated\test\debug" />
+        <source path="D:\Documents\GitHub\SquareBO\metaioSDK\src\androidTest\res" />
+        <source path="D:\Documents\GitHub\SquareBO\metaioSDK\build\generated\res\rs\test\debug" />
+        <source path="D:\Documents\GitHub\SquareBO\metaioSDK\build\generated\res\generated\test\debug" />
     </dataSet>
 
 </merger>

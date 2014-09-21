@@ -2,10 +2,10 @@
 <merger version="2" >
 
     <dataSet config="main" >
-        <source path="C:\Users\Antoine\Desktop\Square\metaioSDK\assets" />
+        <source path="D:\Documents\GitHub\SquareBO\metaioSDK\assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="C:\Users\Antoine\Desktop\Square\metaioSDK\build-types\debug\assets" />
+        <source path="D:\Documents\GitHub\SquareBO\metaioSDK\build-types\debug\assets" />
     </dataSet>
 
 </merger>
